@@ -28,6 +28,13 @@ this is a personal blog which's coded by raw php and translated to Persian :)
   <img src="assets/img/SC4.png" alt="PHP" />
 </p>
 
+## Installation
+
+2. Clone the repo
+   ```sh
+   git clone https://github.com/Amir-Shamsi/simple-php-blog.git
+   ```
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
