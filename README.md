@@ -1,12 +1,14 @@
 # <img src="assets/img/logo/logo.png" width="50" height="30"  alt="AMIR SHAMSI-LOGO" /> Simple Php Blog
+
+This is a personal blog which's coded by raw php and translated to Persian :)
+
 <p align='center'>
   <a href="https://en.wikipedia.org/wiki/PHP">
     <img src="phpIcon.png" width="120" height="65"  alt="PHP" />
   </a> 
 </p>
-this is a personal blog which's coded by raw php and translated to Persian :)
 
-## Blog Has These Simple Options
+### Blog Has These Simple Options
 
 * Show New Articles
 * Upload Articles (Admins-ONLY)
