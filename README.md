@@ -1,7 +1,7 @@
-# Simple Php Blog
+# <img src="assets/img/logo/logo.png" width="50" height="30"  alt="AMIR SHAMSI-LOGO" /> Simple Php Blog
 <p align='center'>
   <a href="https://en.wikipedia.org/wiki/PHP">
-    <img src="https://github.com/Amir-Shamsi/simple-php-blog/blob/master/phpIcon.png" width="120" height="65"  alt="PHP" />
+    <img src="phpIcon.png" width="120" height="65"  alt="PHP" />
   </a> 
 </p>
 this is a personal blog which's coded by raw php and translated to Persian :)
