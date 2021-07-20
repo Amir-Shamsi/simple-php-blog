@@ -30,7 +30,7 @@ this is a personal blog which's coded by raw php and translated to Persian :)
 
 ## Installation
 
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/Amir-Shamsi/simple-php-blog.git
    ```
