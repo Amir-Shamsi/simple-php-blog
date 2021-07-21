@@ -21,13 +21,13 @@ This is a personal website which's coded by raw php and translated to Persian :)
 
 <p align='center'>
   <h6 align="center">ScreenShot 1</h6>
-  <img src="assets/img/SC1.png" alt="PHP" />
+  <img src="assets/img/SC1.jpg" alt="PHP" />
   <h6 align="center">ScreenShot 2</h6>
-  <img src="assets/img/SC2.png" alt="PHP" />
+  <img src="assets/img/SC2.jpg" alt="PHP" />
   <h6 align="center">ScreenShot 3</h6>
-  <img src="assets/img/SC3.png" alt="PHP" />
+  <img src="assets/img/SC3.jpg" alt="PHP" />
   <h6 align="center">ScreenShot 4</h6>
-  <img src="assets/img/SC4.png" alt="PHP" />
+  <img src="assets/img/SC4.jpg" alt="PHP" />
 </p>
 
 ## Installation
