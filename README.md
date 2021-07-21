@@ -34,7 +34,7 @@ This is a personal website which's coded by raw php and translated to Persian :)
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Amir-Shamsi/simple-php-blog.git
+   git clone https://github.com/Amir-Shamsi/simple-php-website.git
    ```
 
 ## License
