@@ -1,4 +1,4 @@
-# <img src="assets/img/logo/logo.png" width="50" height="30"  alt="AMIR SHAMSI-LOGO" /> Simple Php Blog
+# <img src="assets/img/logo/logo.png" width="50" height="30"  alt="AMIR SHAMSI-LOGO" /> Simple Php Website
 
 This is a personal website which's coded by raw php and translated to Persian :)
 
