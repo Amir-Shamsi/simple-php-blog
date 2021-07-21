@@ -1,6 +1,6 @@
 # <img src="assets/img/logo/logo.png" width="50" height="30"  alt="AMIR SHAMSI-LOGO" /> Simple Php Blog
 
-This is a personal blog which's coded by raw php and translated to Persian :)
+This is a personal website which's coded by raw php and translated to Persian :)
 
 <p align='center'>
   <a href="https://en.wikipedia.org/wiki/PHP">
@@ -8,7 +8,7 @@ This is a personal blog which's coded by raw php and translated to Persian :)
   </a> 
 </p>
 
-### Blog Has These Simple Options
+### The Website Has These Options
 
 * Show New Articles
 * Upload Articles (Admins-ONLY)
